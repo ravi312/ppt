@@ -15,3 +15,6 @@
 
 ![](./img/flute.jpeg)
 
+![](./img/cloud.jpeg)
+
+![](./img/earth.jpeg)
